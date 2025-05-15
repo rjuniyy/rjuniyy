@@ -5,5 +5,5 @@
   <img height=200 align="center" src="https://github-readme-stats-beta-nine-47.vercel.app/api/top-langs?username=rjuniyy&layout=compact&langs_count=10&card_width=320&theme=calm_pink" />
 </a>
 <a href="https://github.com/rjuniyy/github-readme-stats">
-  <img height=400 width=400 align="center" src="https://github-readme-stats-beta-nine-47.vercel.app/api/wakatime?username=rjuniyy&layout=compact" />
+  <img height=340 width=815 align="center" src="https://github-readme-stats-beta-nine-47.vercel.app/api/wakatime?username=rjuniyy&layout=compact&theme=calm_pink" />
 </a>
