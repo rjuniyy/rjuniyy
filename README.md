@@ -5,4 +5,4 @@
   <img height=200 align="center" src="https://github-readme-stats-beta-nine-47.vercel.app/api/top-langs?username=rjuniyy&layout=compact&langs_count=10&card_width=320&theme=calm_pink" />
 </a>
 
-[![Harlok's WakaTime stats](https://github-readme-stats-beta-nine-47.vercel.app/api/wakatime?username=rjuniyy&layout=compact)]
+![Juniy's WakaTime stats](https://github-readme-stats-beta-nine-47.vercel.app/api/wakatime?username=rjuniyy&layout=compact)
